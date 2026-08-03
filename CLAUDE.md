@@ -141,6 +141,13 @@ The APL/PIDA project is COMPLETE. Authoritative artifacts:
   `carlos-pm-journey`, then moved up to `Personal-Projects/`. Claude memory was
   migrated each time.
 
+## Git
+
+The vault is a git repo pushed to **private GitHub repo izaack89/carlos-pm-journey**
+(created ago-2026). `documentation/` folders (~1.6GB of course PDFs/videos, some
+files >100MB) are gitignored — only notes, specs, entregables, templates and
+Obsidian config are versioned. After significant vault changes, commit and push.
+
 ## Obsidian settings (`.obsidian/`)
 
 Enabled core plugins: file-explorer, global-search, switcher, graph, backlink, canvas, tag-pane, properties, page-preview, daily-notes, templates, outline, bookmarks, bases, sync, file-recovery, word-count.
