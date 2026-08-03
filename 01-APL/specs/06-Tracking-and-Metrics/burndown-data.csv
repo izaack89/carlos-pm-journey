@@ -1,0 +1,24 @@
+sitio_id,zona,tipo,epica,integrador,optimizador,cuadrilla,fecha_listo_ventana_planeada,fecha_integracion_planeada,fecha_optimizacion_planeada,fecha_aceptacion_planeada,fecha_done_planeada,ftr_esperado,bloqueos_anticipados,notas
+PA-001,Vía España,Corredor,E1,Diego,Marco,Luis,2026-06-08,2026-06-09,2026-06-10,2026-06-12,2026-06-12,TRUE,0,Primer sitio del Golden Cluster
+PA-003,El Cangrejo,Urbano,E1,Ana,Sofía,Luis,2026-06-10,2026-06-11,2026-06-12,2026-06-12,2026-06-12,TRUE,0,Sitio urbano denso
+PA-005,San Francisco,Urbano,E1,Diego,Sofía,Luis,2026-06-15,2026-06-16,2026-06-17,2026-06-19,2026-06-19,TRUE,0,Segundo urbano del cluster
+PA-014,San Miguelito,Suburbano,E1,Ana,Marco,Ricardo,2026-06-16,2026-06-17,2026-06-18,2026-06-19,2026-06-19,FALSE,1,Bloqueo simulado RF — caso documentado
+PA-019,Juan Díaz,Suburbano,E1,Hugo,Patricia,Ricardo,2026-06-18,2026-06-19,2026-06-20,2026-06-22,2026-06-22,TRUE,0,Suburbano de validación del cluster
+PA-002,Costa del Este,Corredor,E2,Marco,Marco,Luis,2026-06-29,2026-06-30,2026-07-01,2026-07-03,2026-07-03,TRUE,0,Prueba de 3CA tras retrospectiva
+PA-004,Bella Vista,Urbano,E2,Diego,Sofía,Luis,2026-06-30,2026-07-01,2026-07-02,2026-07-03,2026-07-03,TRUE,0,Subió en prioridad por saturación 91%
+PA-006,Obarrio,Urbano,E2,Ana,Patricia,Luis,2026-07-01,2026-07-02,2026-07-03,2026-07-03,2026-07-03,TRUE,0,Urbano denso
+PA-008,Vía Brasil,Urbano,E2,Sandeep,Marco,Luis,2026-07-02,2026-07-03,2026-07-04,2026-07-10,2026-07-10,TRUE,0,Piloto de automatización Sandeep
+PA-009,Calidonia,Urbano,E2,Hugo,Sofía,Javier,2026-07-03,2026-07-04,2026-07-05,2026-07-10,2026-07-10,TRUE,0,Reasignado a Cuadrilla 2 por balanceo
+PA-007,Punta Pacífica,Urbano,E2,Diego,Marco,Luis,2026-07-06,2026-07-07,2026-07-08,2026-07-10,2026-07-10,TRUE,1,Diferido sem 5 por tower company
+PA-011,Curundú,Urbano,E2,Ana,Patricia,Luis,2026-07-07,2026-07-08,2026-07-09,2026-07-10,2026-07-10,TRUE,0,Urbano
+PA-013,Parque Lefevre,Urbano,E2,Sandeep,Sofía,Ricardo,2026-07-08,2026-07-09,2026-07-10,2026-07-17,2026-07-17,TRUE,0,Sandeep continúa con automatización
+PA-012,Río Abajo,Urbano,E2,Hugo,Marco,Ricardo,2026-07-13,2026-07-14,2026-07-15,2026-07-17,2026-07-17,TRUE,0,Mediana complejidad
+PA-010,Santa Ana,Urbano,E2,Diego,Patricia,Luis,2026-07-14,2026-07-15,2026-07-16,2026-07-17,2026-07-17,FALSE,1,Restricciones de acceso anticipadas
+PA-015,Tocumen,Suburbano,E3,Ana,Sofía,Ricardo,2026-07-15,2026-07-16,2026-07-17,2026-07-17,2026-07-17,TRUE,0,Suburbano oriente
+PA-018,Don Bosco,Suburbano,E3,Hugo,Marco,Ricardo,2026-07-16,2026-07-17,2026-07-18,2026-07-24,2026-07-24,TRUE,0,Suburbano oriente
+PA-021,Arraiján,Panamá Oeste,E3,Sandeep,Patricia,Javier,2026-07-20,2026-07-21,2026-07-23,2026-07-24,2026-07-24,TRUE,0,Distancia mayor
+PA-022,La Chorrera,Panamá Oeste,E3,Diego,Sofía,Javier,2026-07-21,2026-07-22,2026-07-24,2026-07-24,2026-07-24,TRUE,0,Distancia mayor
+PA-016,Las Cumbres,Suburbano,E3,Ana,Marco,Ricardo,2026-07-22,2026-07-23,2026-07-25,2026-07-31,2026-07-31,TRUE,0,Suburbano oriente
+PA-017,Pedregal,Suburbano,E4,Hugo,Patricia,Ricardo,2026-07-27,2026-07-28,2026-07-30,2026-07-31,2026-07-31,TRUE,0,Cierre
+PA-020,Las Acacias,Suburbano,E4,Diego,Sofía,Javier,2026-07-28,2026-07-29,2026-07-30,2026-07-31,2026-07-31,TRUE,0,Cierre
+PA-023,Vista Alegre,Panamá Oeste,E4,Sandeep,Marco,Javier,2026-08-03,2026-08-04,2026-08-05,2026-08-07,2026-08-07,TRUE,1,Readiness pendiente al inicio

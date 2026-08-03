@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# Material oficial del curso (PDFs/videos, ~1.6GB, excede límites de GitHub)
+# Vive en disco local y en las descargas del curso — no se versiona
+01-APL/documentation/
+02-PMP/documentation/
+
+# Estado de sesión de Obsidian (específico por dispositivo)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Archivos temporales
+*.zip
+~$*
