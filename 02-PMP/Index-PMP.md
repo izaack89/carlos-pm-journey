@@ -11,7 +11,7 @@ tags: [pmp, curso, indice, gestion-de-proyectos]
 
 > Segunda certificación del recorrido de Carlos. La primera ([[Index-APL|APL — Agile Project Leader]]) se completó con el proyecto PIDA de Telemóvil Costa Rica.
 
-**Módulos recibidos:** 2 · **Material:** 82 archivos + 16 notas de estudio
+**Módulos recibidos:** 4 · **Material:** 145 archivos + 29 notas de estudio
 
 ---
 
@@ -21,7 +21,9 @@ tags: [pmp, curso, indice, gestion-de-proyectos]
 |---|--------|----------|--------|
 | 01 | [[#01. Gestión del Tiempo y Recursos]] | 50 | 📖 En estudio |
 | 02 | [[#02. Gestión del Alcance]] | 32 | 📖 En estudio |
-| 03 | *(pendiente de recibir)* | — | — |
+| 03 | [[#03. Gestión de Costos]] | 29 | 📖 En estudio |
+| 04 | [[#04. Gestión de Riesgos]] | 34 | 📖 En estudio |
+| 05 | *(pendiente de recibir)* | — | — |
 
 ---
 
@@ -106,6 +108,36 @@ Subcompetencia **PMP SC1.2** · `02-PMP/documentation/02. Gestion del alcance/` 
 - Plantillas: [[documentation/02. Gestion del alcance/Acta de constitución del proyecto (plantilla).pdf|Acta de Constitución]] · [[documentation/02. Gestion del alcance/Plan de gestión del alcance.pdf|Plan de gestión del alcance]] · [[documentation/02. Gestion del alcance/Preparación del Enunciado del alcance del proyecto.pdf|Enunciado del alcance]] · [[documentation/02. Gestion del alcance/Estructura de desglose del trabajo - EDT (WBS).pdf|EDT (WBS)]] · [[documentation/02. Gestion del alcance/Diccionario de la EDT.pdf|Diccionario EDT]]
 - Autoevaluación: [[documentation/02. Gestion del alcance/Pruébate (1).pdf|Pruébate 1]] · [[documentation/02. Gestion del alcance/Pruébate (2).pdf|2]] · [[documentation/02. Gestion del alcance/Pruébate (3).pdf|3]] · [[documentation/02. Gestion del alcance/Pruébate (4).pdf|4]] · [[documentation/02. Gestion del alcance/Practica lo aprendido.pdf|Practica lo aprendido]]
 - Los 17 PDFs temáticos restantes están integrados dentro de las notas L2-L6 (ver frontmatter `complementos` de cada nota).
+
+---
+
+## 03. Gestión de Costos
+
+`02-PMP/documentation/03. Gestion de costos/` (29 PDFs)
+
+### 📝 Notas de estudio (empezar aquí)
+
+**[[00-MOC-Gestion-de-Costos|🗺️ MOC del módulo]]** · [[L1 - Panorama y contexto de los costos|L1]] · [[L2 - Procesos de gestión del costo|L2]] · [[L3 - Estimación de costos|L3]] · [[L4 - Presupuestación, flujo de caja y curva S|L4]] · [[L5 - Control de costos y valor ganado|L5]] · 🎯 [[Quiz - Pruebate M03|Quiz]] · 💡 [[Ideas para llevar M03|Ideas para llevar]]
+
+### Fuentes principales
+
+- No trae "versión impresa" por lección; las notas L1-L5 integran los 29 PDFs temáticos del módulo (ver frontmatter `complementos` de cada nota).
+- Autoevaluación: [[documentation/03. Gestion de costos/Pruébate (1).pdf|Pruébate 1]] · [[documentation/03. Gestion de costos/Pruébate (2).pdf|2]] · [[documentation/03. Gestion de costos/Pruébate (3).pdf|3]] · [[documentation/03. Gestion de costos/Pruébate (4).pdf|4]] · [[documentation/03. Gestion de costos/Pruebate (1).pdf|Pruebate (1) sin acento — distinto del anterior]]
+
+---
+
+## 04. Gestión de Riesgos
+
+Subcompetencia **PMP SC1.4** · `02-PMP/documentation/04. Gestion de Riesgos/` (34 PDFs)
+
+### 📝 Notas de estudio (empezar aquí)
+
+**[[00-MOC-Gestion-de-Riesgos|🗺️ MOC del módulo]]** · [[L2 - Definiciones y conceptos de riesgo|L2]] · [[L3 - Plan de gestión de riesgos|L3]] · [[L4 - Identificación y análisis de riesgos|L4]] · [[L5 - Planificación de respuestas a los riesgos|L5]] · [[L6 - Implementación, monitoreo y control de riesgos|L6]] · 🎯 [[Quiz - Pruebate M04|Quiz]] · 💡 [[Ideas para llevar M04|Ideas para llevar]]
+
+### Fuentes principales
+
+- Versiones impresas: [[documentation/04. Gestion de Riesgos/PMP_SC1.4_versionimpresa_L2.pdf|L2]] · [[documentation/04. Gestion de Riesgos/PMP_SC1.4_versionimpresa_L3.pdf|L3]] · [[documentation/04. Gestion de Riesgos/PMP_SC1.4_versionimpresa_L4.pdf|L4]] · [[documentation/04. Gestion de Riesgos/PMP_SC1.4_versionimpresa_L5.pdf|L5]] · [[documentation/04. Gestion de Riesgos/L6_Implementación, monitoreo y control de riesgos.pdf|L6]]
+- Los 28 PDFs temáticos restantes están integrados dentro de las notas L2-L6 (ver frontmatter `complementos` de cada nota).
 
 ---
 

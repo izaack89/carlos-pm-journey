@@ -62,7 +62,8 @@
       "Bash(mv documentation *)",
       "Bash(mv PMP/documentation 02-PMP/documentation)",
       "Bash(mv PMP/Index-PMP.md 02-PMP/Index-PMP.md)",
-      "Bash(rmdir PMP)"
+      "Bash(rmdir PMP)",
+      "Bash(gh repo *)"
     ]
   }
 }

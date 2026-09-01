@@ -17,8 +17,9 @@ identical internal layout.** Current sections:
    358 PDFs + 358 notes) + the PIDA project (Telemóvil Costa Rica, 23 sitios
    LTE B41) with all 12 weeks of deliverables.
 2. **`02-PMP/` — Project Management Professional** — 📖 IN PROGRESS. Modules 1
-   (Gestión del Tiempo y Recursos, 50 files) and 2 (Gestion del alcance, 32 files)
-   received, both with study notes + MOC; module 2 also has a quiz bank note.
+   (Gestión del Tiempo y Recursos, 50 files), 2 (Gestion del alcance, 32 files),
+   3 (Gestion de costos, 29 files) and 4 (Gestion de Riesgos, 34 files) received,
+   all with study notes + MOC + quiz bank notes (modules 2-4).
 
 ## Vault structure
 
@@ -35,10 +36,14 @@ identical internal layout.** Current sections:
 │   ├── Index-PMP.md            ← índice del curso PMP
 │   ├── documentation/
 │   │   ├── 01. Gestión del Tiempo y Recursos/   (48 PDFs + 2 mp4)
-│   │   └── 02. Gestion del alcance/             (32 PDFs)
+│   │   ├── 02. Gestion del alcance/             (32 PDFs)
+│   │   ├── 03. Gestion de costos/               (29 PDFs, no trae "versión impresa" por lección)
+│   │   └── 04. Gestion de Riesgos/              (34 PDFs)
 │   ├── notes/
 │   │   ├── 01. Gestión del Tiempo y Recursos/   (L1-L6 + MOC)
-│   │   └── 02. Gestion del alcance/             (L2-L6 + MOC + Quiz + Ideas)
+│   │   ├── 02. Gestion del alcance/             (L2-L6 + MOC + Quiz + Ideas)
+│   │   ├── 03. Gestion de costos/               (L1-L5 + MOC + Quiz + Ideas)
+│   │   └── 04. Gestion de Riesgos/              (L2-L6 + MOC + Quiz + Ideas)
 │   └── specs/entregables/      ← para el futuro proyecto aplicado del PMP
 ├── 99-Templates/
 │   └── Template-Certificacion.md   ← plantilla para la certificación N
@@ -130,7 +135,9 @@ The APL/PIDA project is COMPLETE. Authoritative artifacts:
   `08. Alineación Estratégica en Proyectos.` (trailing dot),
   `11. Liderazgo colaborativo ` (trailing space).
 - `02. Detección y Resolución de Riesgos y Problemas copy` — "copy" is canonical.
-- Some PDFs exist in accented AND unaccented variants (`Pruebate` vs `Pruébate`) — distinct files.
+- Some PDFs exist in accented AND unaccented variants (`Pruebate` vs `Pruébate`) — distinct files. Also happens
+  in `02-PMP/documentation/03. Gestion de costos/` (`Pruébate (1).pdf` vs
+  `Pruebate (1).pdf` — different lessons, not duplicates).
 - macOS stores filenames NFD-decomposed; wiki-links may be NFC. Obsidian resolves
   them fine — when auditing links with scripts, normalize with NFC first.
 - `01-APL/Index-APL.md` has ~64 links to notes that never existed in the original
