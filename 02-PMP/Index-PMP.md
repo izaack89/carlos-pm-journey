@@ -11,7 +11,7 @@ tags: [pmp, curso, indice, gestion-de-proyectos]
 
 > Segunda certificación del recorrido de Carlos. La primera ([[Index-APL|APL — Agile Project Leader]]) se completó con el proyecto PIDA de Telemóvil Costa Rica.
 
-**Módulos recibidos:** 4 · **Material:** 145 archivos + 29 notas de estudio
+**Módulos recibidos:** 5 · **Material:** 160 archivos + 36 notas de estudio
 
 ---
 
@@ -23,7 +23,8 @@ tags: [pmp, curso, indice, gestion-de-proyectos]
 | 02 | [[#02. Gestión del Alcance]] | 32 | 📖 En estudio |
 | 03 | [[#03. Gestión de Costos]] | 29 | 📖 En estudio |
 | 04 | [[#04. Gestión de Riesgos]] | 34 | 📖 En estudio |
-| 05 | *(pendiente de recibir)* | — | — |
+| 05 | [[#05. Ejecución, Monitoreo y Control]] | 15 | 📖 En estudio |
+| 06 | *(pendiente de recibir)* | — | — |
 
 ---
 
@@ -138,6 +139,22 @@ Subcompetencia **PMP SC1.4** · `02-PMP/documentation/04. Gestion de Riesgos/` (
 
 - Versiones impresas: [[documentation/04. Gestion de Riesgos/PMP_SC1.4_versionimpresa_L2.pdf|L2]] · [[documentation/04. Gestion de Riesgos/PMP_SC1.4_versionimpresa_L3.pdf|L3]] · [[documentation/04. Gestion de Riesgos/PMP_SC1.4_versionimpresa_L4.pdf|L4]] · [[documentation/04. Gestion de Riesgos/PMP_SC1.4_versionimpresa_L5.pdf|L5]] · [[documentation/04. Gestion de Riesgos/L6_Implementación, monitoreo y control de riesgos.pdf|L6]]
 - Los 28 PDFs temáticos restantes están integrados dentro de las notas L2-L6 (ver frontmatter `complementos` de cada nota).
+
+---
+
+## 05. Ejecución, Monitoreo y Control
+
+Subcompetencia **PMP SC1.5** · `02-PMP/documentation/05. Ejecución, Monitoreo y Control/` (15 PDFs)
+
+### 📝 Notas de estudio (empezar aquí)
+
+**[[00-MOC-Ejecucion-Monitoreo-y-Control|🗺️ MOC del módulo]]** · [[L2 - Ubicación del Work Performance en la gestión del proyecto|L2]] · [[L3 - Project Governance, monitoreo y control, y Project Baseline|L3]] · [[L4 - Earned Value Method (EVM)|L4]] · [[L5 - TCPI y otras métricas de desempeño|L5]] · [[L6 - Control de Cambios Integrado y MsProject|L6]] · 🎯 [[Quiz - Pruebate M05|Quiz]] · 💡 [[Ideas para llevar M05|Ideas para llevar]]
+
+### Fuentes principales
+
+- Versiones impresas: [[documentation/05. Ejecución, Monitoreo y Control/PMP_SC1.5_Versión impresa_L2.pdf|L2]] · [[documentation/05. Ejecución, Monitoreo y Control/PMP_SC1.5_Versión impresa_L3.pdf|L3]] · [[documentation/05. Ejecución, Monitoreo y Control/PMP_SC1.5_Versión impresa_L4.pdf|L4]] · [[documentation/05. Ejecución, Monitoreo y Control/PMP_SC1.5_Versión impresa_L5.pdf|L5]] · [[documentation/05. Ejecución, Monitoreo y Control/PMP_SC1.5_Versión impresa_L6.pdf|L6]]
+- Los 9 PDFs temáticos restantes (casos EVM/MS Project, métricas de desempeño) están integrados en las notas L4-L6 (ver frontmatter `complementos`).
+- ⚠️ [[documentation/05. Ejecución, Monitoreo y Control/Medición del desempeño del proyecto.pdf|Medición del desempeño del proyecto.pdf]] (61 págs., caso Platinum Inc.) referenciado solo parcialmente en L4-L5 — pendiente de una nota dedicada si se quiere explotar a fondo.
 
 ---
 
