@@ -16,10 +16,11 @@ identical internal layout.** Current sections:
 1. **`01-APL/` — Agile Project Leader** — ✅ COMPLETED. Course (13 modules,
    358 PDFs + 358 notes) + the PIDA project (Telemóvil Costa Rica, 23 sitios
    LTE B41) with all 12 weeks of deliverables.
-2. **`02-PMP/` — Project Management Professional** — 📖 IN PROGRESS. Modules 1-5
+2. **`02-PMP/` — Project Management Professional** — 📖 IN PROGRESS. Modules 1-6
    received (Gestión del Tiempo y Recursos 50 files, Gestion del alcance 32 files,
    Gestion de costos 29 files, Gestion de Riesgos 34 files, Ejecución/Monitoreo
-   y Control 15 files), all with study notes + MOC + quiz bank notes (modules 2-5).
+   y Control 15 files, Entrega y Calidad 34 files), all with study notes + MOC +
+   quiz bank notes (modules 2-6).
 
 ## Vault structure
 
@@ -39,13 +40,15 @@ identical internal layout.** Current sections:
 │   │   ├── 02. Gestion del alcance/             (32 PDFs)
 │   │   ├── 03. Gestion de costos/               (29 PDFs, no trae "versión impresa" por lección)
 │   │   ├── 04. Gestion de Riesgos/              (34 PDFs)
-│   │   └── 05. Ejecución, Monitoreo y Control/  (15 PDFs)
+│   │   ├── 05. Ejecución, Monitoreo y Control/  (15 PDFs)
+│   │   └── 06. Entrega y Calidad del Proyecto/  (34 PDFs)
 │   ├── notes/
 │   │   ├── 01. Gestión del Tiempo y Recursos/   (L1-L6 + MOC)
 │   │   ├── 02. Gestion del alcance/             (L2-L6 + MOC + Quiz + Ideas)
 │   │   ├── 03. Gestion de costos/               (L1-L5 + MOC + Quiz + Ideas)
 │   │   ├── 04. Gestion de Riesgos/              (L2-L6 + MOC + Quiz + Ideas)
-│   │   └── 05. Ejecución, Monitoreo y Control/  (L2-L6 + MOC + Quiz + Ideas)
+│   │   ├── 05. Ejecución, Monitoreo y Control/  (L2-L6 + MOC + Quiz + Ideas)
+│   │   └── 06. Entrega y Calidad del Proyecto/  (L2-L6 + MOC + Quiz + Ideas)
 │   └── specs/entregables/      ← para el futuro proyecto aplicado del PMP
 ├── 99-Templates/
 │   └── Template-Certificacion.md   ← plantilla para la certificación N

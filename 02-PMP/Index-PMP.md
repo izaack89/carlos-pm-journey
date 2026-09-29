@@ -11,7 +11,7 @@ tags: [pmp, curso, indice, gestion-de-proyectos]
 
 > Segunda certificación del recorrido de Carlos. La primera ([[Index-APL|APL — Agile Project Leader]]) se completó con el proyecto PIDA de Telemóvil Costa Rica.
 
-**Módulos recibidos:** 5 · **Material:** 160 archivos + 36 notas de estudio
+**Módulos recibidos:** 6 · **Material:** 194 archivos + 44 notas de estudio
 
 ---
 
@@ -24,7 +24,8 @@ tags: [pmp, curso, indice, gestion-de-proyectos]
 | 03 | [[#03. Gestión de Costos]] | 29 | 📖 En estudio |
 | 04 | [[#04. Gestión de Riesgos]] | 34 | 📖 En estudio |
 | 05 | [[#05. Ejecución, Monitoreo y Control]] | 15 | 📖 En estudio |
-| 06 | *(pendiente de recibir)* | — | — |
+| 06 | [[#06. Entrega y Calidad del Proyecto]] | 34 | 📖 En estudio |
+| 07 | *(pendiente de recibir)* | — | — |
 
 ---
 
@@ -155,6 +156,21 @@ Subcompetencia **PMP SC1.5** · `02-PMP/documentation/05. Ejecución, Monitoreo 
 - Versiones impresas: [[documentation/05. Ejecución, Monitoreo y Control/PMP_SC1.5_Versión impresa_L2.pdf|L2]] · [[documentation/05. Ejecución, Monitoreo y Control/PMP_SC1.5_Versión impresa_L3.pdf|L3]] · [[documentation/05. Ejecución, Monitoreo y Control/PMP_SC1.5_Versión impresa_L4.pdf|L4]] · [[documentation/05. Ejecución, Monitoreo y Control/PMP_SC1.5_Versión impresa_L5.pdf|L5]] · [[documentation/05. Ejecución, Monitoreo y Control/PMP_SC1.5_Versión impresa_L6.pdf|L6]]
 - Los 9 PDFs temáticos restantes (casos EVM/MS Project, métricas de desempeño) están integrados en las notas L4-L6 (ver frontmatter `complementos`).
 - ⚠️ [[documentation/05. Ejecución, Monitoreo y Control/Medición del desempeño del proyecto.pdf|Medición del desempeño del proyecto.pdf]] (61 págs., caso Platinum Inc.) referenciado solo parcialmente en L4-L5 — pendiente de una nota dedicada si se quiere explotar a fondo.
+
+---
+
+## 06. Entrega y Calidad del Proyecto
+
+Subcompetencia **PMP SC1.6** · `02-PMP/documentation/06. Entrega y Calidad del Proyecto/` (34 PDFs)
+
+### 📝 Notas de estudio (empezar aquí)
+
+**[[00-MOC-Entrega-y-Calidad|🗺️ MOC del módulo]]** · [[L2 - Introducción a la entrega de valor y la administración de la calidad|L2]] · [[L3 - Sistema para la entrega de valor|L3]] · [[L4 - Dominio de desempeño de la entrega|L4]] · [[L5 - Definición de las métricas del proyecto|L5]] · [[L6 - Administración de la calidad del proyecto|L6]] · 🎯 [[Quiz - Pruebate M06|Quiz]] · 💡 [[Ideas para llevar M06|Ideas para llevar]]
+
+### Fuentes principales
+
+- Versiones impresas: [[documentation/06. Entrega y Calidad del Proyecto/PMP_SC1.6_versionimpresa_L2.pdf|L2]] · [[documentation/06. Entrega y Calidad del Proyecto/PMP_SC1.6_versionimpresa_L3.pdf|L3]] · [[documentation/06. Entrega y Calidad del Proyecto/PMP_SC1.6_versionimpresa_L4.pdf|L4]] · [[documentation/06. Entrega y Calidad del Proyecto/PMP_SC1.6_versionimpresa_L5.pdf|L5]] · [[documentation/06. Entrega y Calidad del Proyecto/PMP_SC1.6_versionimpresa_L6.pdf|L6]]
+- Los PDFs temáticos restantes están integrados en las notas L2-L6 (ver frontmatter `complementos`).
 
 ---
 
